@@ -8,4 +8,11 @@ Project based on route optimization in road networks, worked on as a part of Sum
 - Finding the shortest path to reach a stoppage from the previous one as mentioned in the bus route. In this case, the bus route covers all the stoppages in minimum time.
 - Next, when one or more stoppages become inaccessible, finding a shortest possible route avoiding those stoppages such that maximum number of other stoppages is covered and time taken is minimum.
 
+Road without any disruptions
+<img src="./snaps/test9.png" width= "500">
+
+Road with one disruption to be avoided
+<img src="./snaps/test9b.png" width= "500">
+
+
 _For further details refer FinalReport.pdf_
