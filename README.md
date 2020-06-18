@@ -1,5 +1,7 @@
 # Finding shortest path covering maximum stoppages in a disrupted road network.
 
+Project based on route optimization in road networks, worked on as a part of Summer Research Internship at IIT,Kharagpur (May2016-July2016).
+
 ## Tasks performed:
 
 - Representation of a set of coordinates (here, bus stoppages) mapped on the map of Kolkata city forming a route as a graph structure.
